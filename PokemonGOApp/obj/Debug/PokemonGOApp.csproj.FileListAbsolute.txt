@@ -1,0 +1,9 @@
+C:\Users\Nolan\Desktop\PokemonGOAPP\PokemonGOApp\PokemonGOApp\bin\Debug\PokemonGOApp.exe.config
+C:\Users\Nolan\Desktop\PokemonGOAPP\PokemonGOApp\PokemonGOApp\bin\Debug\PokemonGOApp.exe
+C:\Users\Nolan\Desktop\PokemonGOAPP\PokemonGOApp\PokemonGOApp\bin\Debug\PokemonGOApp.pdb
+C:\Users\Nolan\Desktop\PokemonGOAPP\PokemonGOApp\PokemonGOApp\obj\Debug\PokemonGOApp.csprojResolveAssemblyReference.cache
+C:\Users\Nolan\Desktop\PokemonGOAPP\PokemonGOApp\PokemonGOApp\obj\Debug\PokemonGOApp.Form1.resources
+C:\Users\Nolan\Desktop\PokemonGOAPP\PokemonGOApp\PokemonGOApp\obj\Debug\PokemonGOApp.Properties.Resources.resources
+C:\Users\Nolan\Desktop\PokemonGOAPP\PokemonGOApp\PokemonGOApp\obj\Debug\PokemonGOApp.csproj.GenerateResource.Cache
+C:\Users\Nolan\Desktop\PokemonGOAPP\PokemonGOApp\PokemonGOApp\obj\Debug\PokemonGOApp.exe
+C:\Users\Nolan\Desktop\PokemonGOAPP\PokemonGOApp\PokemonGOApp\obj\Debug\PokemonGOApp.pdb
